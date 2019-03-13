@@ -1,0 +1,13 @@
+package com.shark.ssmshark;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SsmsharkApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SsmsharkApplication.class, args);
+    }
+
+}
